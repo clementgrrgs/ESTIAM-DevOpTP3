@@ -1,5 +1,4 @@
 job('groovy-job') {
-    jdk('Java 6')
     scm {
         git('https://github.com/clementgrrgs/ESTIAM-DevOpTP3.git')
     }
